@@ -1,3 +1,5 @@
+### ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=skysrd&show_icons=true)
+
 ### Stack
 ![Java](https://img.shields.io/static/v1?style=for-the-badge&message=Java&color=F05032&logo=Java&logoColor=FFFFFF&label=)
 ![Spring](https://img.shields.io/static/v1?style=for-the-badge&message=Spring&color=6DB33F&logo=Spring&logoColor=FFFFFF&label=)
