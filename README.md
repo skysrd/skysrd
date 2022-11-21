@@ -7,7 +7,8 @@
 ![Spring Data JPA](https://img.shields.io/static/v1?style=for-the-badge&message=Spring+Data+JPA&color=6DB33F&logo=JPA&logoColor=FFFFFF&label=)  
 ![QueryDsl](https://img.shields.io/static/v1?style=for-the-badge&message=QueryDsl&color=6DB33F&logo=QueryDsl&logoColor=FFFFFF&label=)
 ![MySQL](https://img.shields.io/static/v1?style=for-the-badge&message=MySQL&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
-![REDIS](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=4479A1&logo=MySQL&logoColor=FFFFFF&label=)
+![REDIS](https://img.shields.io/static/v1?style=for-the-badge&message=Redis&color=000000&logo=Redis&logoColor=FFFFFF&label=)
+
 <!---
 skysrd/skysrd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
